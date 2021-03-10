@@ -11,7 +11,7 @@ with open ("./mayoGAA.txt", "rt", encoding="utf-8") as f:
 x = (data.count("e"))
 y = (data.count("E"))
 
-print ("Hi, this mighty article contains" , x + y, "occurrences of the letter 'e'.")
+print ("Hi, this file contains" , x + y, "occurrences of the letter 'e'.")
 
 # Closing the file 
 
