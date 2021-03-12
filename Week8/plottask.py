@@ -27,3 +27,5 @@ plt.show()
 #Saving file
 
 plt.savefig ("Plot Task.png")
+
+#References - W3 Schools & Lecture material
