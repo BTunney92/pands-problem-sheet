@@ -1,5 +1,5 @@
 # Write a program that reads in a text file and outputs the number of e's it contains.
-# Brendan Tunney
+# Author: Brendan Tunney
 
 # Opening the file & reading the content. Encoding added as system default is different to text file method.
 
