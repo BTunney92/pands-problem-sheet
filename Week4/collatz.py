@@ -9,6 +9,7 @@ integer = int(input ("PLease input a number "':'))
 x = integer
 
 #Set out parameters if current value is odd or even
+#Referenced - Lecture material, W3 schools & Stackoverflow
 
 while x !=1:
     if x % 2==0:
