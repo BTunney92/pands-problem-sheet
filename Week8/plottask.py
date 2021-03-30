@@ -22,7 +22,7 @@ plt.plot(xpoints, ypoints, label= "X", color = "Black")
 plt.plot(xpoints, ypoints2, label= "X-Squared", color = "Green")
 plt.plot(xpoints, ypoints3, label= "X-Cubed", color = "Red")
 plt.legend()
-plt.show()
+
 
 #Saving file
 
