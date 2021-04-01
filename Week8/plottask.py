@@ -28,6 +28,6 @@ plt.legend()
 
 plt.savefig ("Plot Task.png")
 
-
+# "plt.show() removed to allow graph to save to png file"
 
 #References - W3 Schools & Lecture material
