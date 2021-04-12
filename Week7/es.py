@@ -3,7 +3,9 @@
 
 # Opening the file & reading the content. Encoding added as system default is different to text file method.
 
-with open ("./mayoGAA.txt", "rt", encoding="utf-8") as f:
+import sys # Importing SYS to use sys.argv{1}. This allows for command line arguments 
+
+with open (sys.argv[1], "rt", encoding="utf-8") as f:
     data = f.read()
 
 # Count number of occurrences of letter 'e' - Lower and Upper case
@@ -21,6 +23,8 @@ f.close()
 #References - https://www.pitt.edu/~naraehan/python3/mbb12.html
 #           - https://pythonexamples.org/python-count-occurrences-of-word-in-text-file/
 #           - Lecture notes
+#           - https://stackoverflow.com/questions/7439145/i-want-to-read-in-a-file-from-the-command-line-in-python/7439162
+
 
 
 
