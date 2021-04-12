@@ -22,7 +22,10 @@ https://www.programiz.com/python-programming/methods/built-in/round"
 
 References below;
 
-https://www.w3schools.com/python/python_strings_slicing.asp
+https://docs.python.org/2/whatsnew/2.3.html#extended-slices
+
+https://stackoverflow.com/questions/54857129/write-a-program-that-takes-a-user-input-string-and-outputs-every-second-word
+
 
 # Week4
 
