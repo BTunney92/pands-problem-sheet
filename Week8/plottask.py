@@ -26,7 +26,7 @@ plt.legend()
 
 #Saving file
 
-plt.savefig ("Plot Task.png")
+plt.savefig ("plottask.PNG") 
 
 # "plt.show() removed to allow graph to save to png file"
 
