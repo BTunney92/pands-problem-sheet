@@ -81,4 +81,6 @@ References below;
 
 W3 Schools 
 
+https://stackoverflow.com/questions/41468951/images-not-displaying-in-github-pages
+
 Lecture material
